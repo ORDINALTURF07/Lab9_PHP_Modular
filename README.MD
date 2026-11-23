@@ -123,7 +123,7 @@ serta `js/app.js` untuk skrip JavaScript pendukung.
 
 ![Struktur Codingan](images/struktur%20folder%20codingan%201.png)
 
-![Struktur Codingan](images/struktur%20folder%20codingan%202.png)
+![Struktur Codingan](images/struktur%20codingan%202.png)
 
 ## Persiapan Praktikum
 
