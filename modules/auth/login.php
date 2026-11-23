@@ -15,21 +15,21 @@ if (isset($_POST['login'])) {
 }
 ?>
 <section>
-<h2>Login</h2>
+    <h2>Login</h2>
 <?php if ($error !== ''): ?>
   <p style="color: red;"><?= e($error) ?></p>
 <?php endif; ?>
 <form method="post" action="index.php?page=auth/login">
-  <div class="input">
-    <label>Username</label>
-    <input type="text" name="username" required />
-  </div>
-  <div class="input">
-    <label>Password</label>
-    <input type="password" name="password" required />
-  </div>
-  <div class="submit">
-    <input type="submit" name="login" value="Masuk" />
-  </div>
+    <div class="input">
+            <label>Username</label>
+            <input type="text" name="username" required />
+</div>
+    <div class="input">
+            <label>Password</label>
+            <input type="password" name="password" required />
+</div>
+    <div class="submit">
+            <input type="submit" name="login" value="Masuk" />
+</div>
 </form>
 </section>
