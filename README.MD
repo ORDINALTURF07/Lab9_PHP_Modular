@@ -439,6 +439,40 @@ dan pengguna diarahkan kembali ke halaman login.
 Fitur login dan logout berjalan menggunakan sesi PHP dan terintegrasi langsung 
 dengan sistem routing `index.php`.
 
+## 9. Styling CSS dan Script JavaScript (`assets/`)
+
+**Pembahasan:**
+
+File `assets/style.css` digunakan untuk mengatur tata letak halaman, navigasi, tabel data barang, formulir, serta tampilan pesan kesalahan (`.error-msg`). Sementara itu, file `assets/script.js` digunakan untuk skrip JavaScript pendukung antarmuka yang dimuat pada bagian layout.
+
+### Screenshot Codingan
+
+![Codingan style.css](images/codingan%20css%201.png)
+
+![Codingan style.css](images/codingan%20css%202.png)
+
+![Codingan style.css](images/codingan%20css%203.png)
+
+![Codingan style.css](images/codingan%20css%204.png)
+
+![Codingan style.css](images/codingan%20css%205.png)
+
+![Codingan style.css](images/codingan%20css%206.png)
+
+![Codingan style.css](images/codingan%20css%207.png)
+
+![Codingan style.css](images/codingan%20css%208.png)
+
+![Codingan script.js](images/codingan%20js%201.png)
+
+![Codingan script.js](images/codingan%20edit%202.png)
+
+![Codingan script.js](images/codingan%20js%203.png)
+
+**Keterangan:**
+
+Screenshot menampilkan aturan gaya tampilan pada `assets/style.css` serta skrip pendukung pada `assets/script.js`.
+
 ---
 
 # PENGUJIAN VALIDASI DAN ERROR HANDLING
